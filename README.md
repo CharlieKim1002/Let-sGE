@@ -1,3 +1,24 @@
+# Spring Boot환경 백엔드 팀 작업
+# 사용 기술
+   1) JAVA
+   2) Spring Boot
+   3) Ajax
+   4) Oracle SQL (DBMS)
+   5) Github
+   6) Notion / Slack
+   7) HTML/CSS
+   8) JavaScript
+
+# 담당 업무(팀장)
+  1) 상품 상세 페이지 구현 담당
+  2) 상품 리뷰 게시판 구현 담당
+  3) 상품 문의 게시판 구현 담당
+  
+# 팀 프로젝트 Github Link
+  1) https://github.com/JuyoungKoo/goodeat
+
+---------------------------------------------------------------------------------------------
+
 # goodeat
 # git 사용 Rule
 1. master 에 직접 psuh 하지 않는다.
